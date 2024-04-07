@@ -1,6 +1,6 @@
 API Template
 
-Hosted Link : twitter-backend-khaki.vercel.app
+Hosted Link : https://twitter-backend-khaki.vercel.app/
 
 Description: API
 
