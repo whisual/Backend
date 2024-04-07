@@ -1,5 +1,7 @@
 API Template
 
+Hosted Link : twitter-backend-khaki.vercel.app
+
 Description: API
 
     USER ROUTES
