@@ -3,6 +3,7 @@ API Template
 Hosted Link : https://twitter-backend-khaki.vercel.app/
 
 USER_API_ENDPOINT = "https://twitter-backend-khaki.vercel.app/api/v1/user";
+
 TWEET_API_ENDPOINT = "https://twitter-backend-khaki.vercel.app/api/v1/tweet"
 
 Description: API
