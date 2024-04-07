@@ -20,7 +20,8 @@ app.use(express.urlencoded({
 app.use(express.json())
 app.use(cookieParser())
 const corsOptions = {
-    origin: "http://localhost:3000",
+    origin: "https://frontend-olive-psi-63.vercel.app/login",
+    methods: ["POST", "DELETE", "GET"]
     credentials: true,
 }
 app.use(cors(corsOptions))
